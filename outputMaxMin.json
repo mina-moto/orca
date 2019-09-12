@@ -1,0 +1,33 @@
+{
+    "max": [
+        {
+            "temp_max": 39.0,
+            "temp_min": 28.5,
+            "humidity": 100.0,
+            "Weather_score": 1.0,
+            "speed": 7.4,
+            "pressure": 1031.1,
+            "day": -100000,
+            "temp_diff": 15.399999999999999,
+            "to-holiday": 5.0,
+            "from-holiday": 5.0
+        }
+    ],
+    "min": [
+        {
+            "temp_max": 3.8,
+            "temp_min": -4.0,
+            "humidity": 33.0,
+            "Weather_score": -1.0,
+            "speed": 1.6,
+            "pressure": 987.9,
+            "day": 100000,
+            "temp_diff": 1.3000000000000007,
+            "to-holiday": 0.0,
+            "from-holiday": 0.0
+        }
+    ],
+    "city": {
+        "name": "Tokyo"
+    }
+}
